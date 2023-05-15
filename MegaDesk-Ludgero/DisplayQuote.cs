@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace MegaDesk_Ludgero
 {
-    public partial class MainMenu : Form
+    public partial class DisplayQuote : Form
     {
-        public MainMenu()
+        public DisplayQuote()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

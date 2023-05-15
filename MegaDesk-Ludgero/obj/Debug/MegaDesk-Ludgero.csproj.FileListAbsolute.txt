@@ -10,3 +10,14 @@ C:\Users\katlu\Documents\byu-idaho\Spring2023\.NET_CSE325\MegaDesk-Ludgero\obj\D
 C:\Users\katlu\Documents\byu-idaho\Spring2023\.NET_CSE325\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.exe
 C:\Users\katlu\Documents\byu-idaho\Spring2023\.NET_CSE325\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.pdb
 C:\Users\katlu\Documents\byu-idaho\Spring2023\.NET_CSE325\MegaDesk-Ludgero\obj\Debug\MegaDesk_Ludgero.MainMenu.resources
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\bin\Debug\MegaDesk-Ludgero.exe.config
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\bin\Debug\MegaDesk-Ludgero.exe
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\bin\Debug\MegaDesk-Ludgero.pdb
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.csproj.AssemblyReference.cache
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.csproj.SuggestedBindingRedirects.cache
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk_Ludgero.MainMenu.resources
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk_Ludgero.Properties.Resources.resources
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.csproj.GenerateResource.cache
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.csproj.CoreCompileInputs.cache
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.exe
+C:\Users\katlu\Source\Repos\emmaludgero\.NET\MegaDesk-Ludgero\obj\Debug\MegaDesk-Ludgero.pdb
