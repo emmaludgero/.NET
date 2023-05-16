@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static MegaDesk_Ludgero.Desk;
 
 namespace MegaDesk_Ludgero
 {
@@ -15,6 +16,7 @@ namespace MegaDesk_Ludgero
         public AddQuote()
         {
             InitializeComponent();
+         
         }
     }
 }

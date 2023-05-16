@@ -37,7 +37,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // AddQuote Button
+            // AddQuote
             // 
             this.AddQuote.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.AddQuote.Cursor = System.Windows.Forms.Cursors.Default;
@@ -49,19 +49,19 @@
             this.AddQuote.UseVisualStyleBackColor = true;
             this.AddQuote.Click += AddQuote_Click;
             // 
-            // View quotes button
+            // ViewQuote
             // 
             this.ViewQuote.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ViewQuote.Cursor = System.Windows.Forms.Cursors.Default;
             this.ViewQuote.Location = new System.Drawing.Point(30, 104);
-            this.ViewQuote.Name = "ViewQuotes";
+            this.ViewQuote.Name = "ViewQuote";
             this.ViewQuote.Size = new System.Drawing.Size(154, 47);
             this.ViewQuote.TabIndex = 1;
             this.ViewQuote.Text = "View Quotes";
             this.ViewQuote.UseVisualStyleBackColor = true;
             this.ViewQuote.Click += ViewQuotes_Click;
             // 
-            // Search Quotes button
+            // SearchQuotes
             // 
             this.SearchQuotes.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.SearchQuotes.Cursor = System.Windows.Forms.Cursors.Default;
@@ -73,7 +73,7 @@
             this.SearchQuotes.UseVisualStyleBackColor = true;
             this.SearchQuotes.Click += SearchQuotes_Click;
             // 
-            // Exit Button
+            // Exit
             // 
             this.Exit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.Exit.Cursor = System.Windows.Forms.Cursors.Default;
@@ -96,17 +96,17 @@
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
             // 
-            // Form1
+            // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(437, 311);
+            this.ClientSize = new System.Drawing.Size(434, 311);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Exit);
             this.Controls.Add(this.SearchQuotes);
             this.Controls.Add(this.ViewQuote);
             this.Controls.Add(this.AddQuote);
-            this.Name = "Form1";
+            this.Name = "MainMenu";
             this.Text = "MegaDesk";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);

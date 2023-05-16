@@ -28,7 +28,7 @@ namespace MegaDesk_Ludgero
 
         // Pricing variables
         private double _structurePrice;
-        private double _surfaceMaterialPrice;
+        // private double _surfaceMaterialPrice;
         private double _drawersPrice;
 
         public Desk(double width, double depth, int drawers, SurfaceMaterial chosenMaterial)
