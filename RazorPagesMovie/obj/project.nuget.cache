@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RYeLmxBcUhl7IoZSvcrpWve04QVGsK2/1keTphj7DFQ3uy1GDYSeCUnZ/lHsap0VTsIjPlyyIR0bqP0PAIwohQ==",
+  "dgSpecHash": "h0jfSmKbWBsQVErLtf8PIJPXEXVMCr7KQOVFKy1nlp6D+Hy/LatR2qnAU8J1d/brjDfJ7Tm8rsBti2JYmKWNPA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\katlu\\source\\repos\\emmaludgero\\.NET\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "projectFilePath": "C:\\Users\\katlu\\Source\\Repos\\emmaludgero\\.NET\\RazorPagesMovie\\RazorPagesMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katlu\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\katlu\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
