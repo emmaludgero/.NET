@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPagesMovie
 build_property.RootNamespace = RazorPagesMovie
-build_property.ProjectDir = C:\Users\katlu\Source\Repos\emmaludgero\.NET\RazorPagesMovie\
+build_property.ProjectDir = C:\Users\katlu\source\repos\emmaludgero\.NET\RazorPagesMovie\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\katlu\Source\Repos\emmaludgero\.NET\RazorPagesMovie
+build_property.MSBuildProjectDirectory = C:\Users\katlu\source\repos\emmaludgero\.NET\RazorPagesMovie
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/katlu/Source/Repos/emmaludgero/.NET/RazorPagesMovie/Pages/Error.cshtml]
